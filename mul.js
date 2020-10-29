@@ -1,6 +1,5 @@
 /**
  *
- * @category
  * @param {number}
  * @param {number}
  * @returns {number} Returns the product.
